@@ -1,0 +1,33 @@
+.human-resource-container {
+    text-align: center;
+  }
+  
+  .human-resource-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .subsections-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .subsection {
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .subsection-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .subsection-description {
+    font-size: 14px;
+  }
+  
