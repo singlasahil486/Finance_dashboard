@@ -1,0 +1,29 @@
+/* DepartmentPage.css */
+
+.department-page-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .offer-banner {
+    position: relative;
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81ujVpNrH0L._AC_UF1000%2C1000_QL80_.jpg&tbnid=OW480pbsvbwv7M&vet=12ahUKEwjlkbmdiryAAxUbz6ACHb01AkQQMygregUIARC0Ag..i&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FBathroom-Ceramic-Sanitary-Closet-Concealed%2Fdp%2FB07W81KN5G&docid=DKR7J4olQgO-pM&w=1000&h=810&q=sanitary%20with%20jpg&ved=2ahUKEwjlkbmdiryAAxUbz6ACHb01AkQQMygregUIARC0Ag'); 
+    background-size: cover;
+    background-position: center;
+    height: 200px; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; /* Text color for the offer text */
+  }
+  
+  .offer-text {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow for better visibility */
+    background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background to improve text readability */
+    padding: 10px;
+  }
+  
