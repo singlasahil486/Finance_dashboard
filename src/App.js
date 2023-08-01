@@ -42,7 +42,7 @@ const App = () => {
   <div>
     <center>
     <h1>
-      Financial Dashboard
+     Swami Machinery Store
     </h1>
     </center>
     {/* <ul>
