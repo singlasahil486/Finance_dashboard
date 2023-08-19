@@ -52,11 +52,15 @@ const App = () => {
   <div>
     <center>
     <h1>
+<<<<<<< HEAD
       
       Swami Machinery store
         <br></br>
         
       
+=======
+     Swami Machinery Store
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
     </h1>
     <h3> Meham,Rohtak,Haryana</h3>
     </center>

@@ -26,6 +26,7 @@
     background-color: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background to improve text readability */
     padding: 10px;
   }
+<<<<<<< HEAD
   /* DepartmentPage.css */
 .poster {
   margin-top: 20px;
@@ -37,3 +38,6 @@
   border: 1px solid #ccc;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+=======
+  
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93

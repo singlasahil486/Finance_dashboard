@@ -10,18 +10,36 @@ const DepartmentPage = () => {
       description: 'Responsible for promoting the company and its products/services.',
       link: '/sanitary', // Add the link for the Marketing department page
     },
+<<<<<<< HEAD
     welding: {
       name: 'Welding',
+=======
+    furniture: {
+      name: 'Furniture',
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
       description: 'Handles financial planning, budgeting, and accounting.',
       link: '/welding', // Add the link for the Finance department page
     },
+<<<<<<< HEAD
     cuttingblade: {
       name: 'Cutting Blade',
+=======
+    welding: {
+      name: 'Welding',
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
       description: 'Manages employee recruitment, benefits, and relations.',
       link: '/cuttingblade', // Add the link for the Human Resources department page
     },
     nutbolts: {
       name: 'Nut Bolts',
+<<<<<<< HEAD
+=======
+      description: 'Responsible for promoting the company and its products/services.',
+      link: '/marketing', // Add the link for the Marketing department page
+    },
+    oilandgrease: {
+      name: 'Nut Bolts',
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
       description: 'Responsible for promoting the company and its products/services.',
       link: '/nutbolts', // Add the link for the Marketing department page
     },
@@ -82,9 +100,15 @@ const DepartmentPage = () => {
  
 //     </div>
 <div className="department-page-container">
+<<<<<<< HEAD
       {/* <div className="offer-banner">
         <p className="offer-text">{department.offer}</p>
       </div> */}
+=======
+      <div className="offer-banner">
+        <p className="offer-text">{department.offer}</p>
+      </div>
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
       <center>
         <h2>{department.name} Department</h2>
         {department.link && (
@@ -93,9 +117,12 @@ const DepartmentPage = () => {
           </Link>
         )}
         {/* Add department-specific content and functionality here */}
+<<<<<<< HEAD
         <div className="poster">
           <img src="C:\Users\Dell\Downloads\rod.jpg"/>
         </div>
+=======
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
       </center>
     </div>  
 );

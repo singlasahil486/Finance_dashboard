@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* /* Company.css
+=======
+/* Company.css */
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
 
 .company-container {
   max-width: 800px;
@@ -42,6 +46,7 @@
   margin-bottom: 10px;
 }
 
+<<<<<<< HEAD
 
 
 .department-image {
@@ -132,6 +137,8 @@
   margin-bottom: 10px;
 }
 
+=======
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
 .department-description {
   font-size: 14px;
   text-align: center;
@@ -143,4 +150,8 @@
   object-fit: cover;
   border-radius: 10%;
   margin-bottom: 10px;
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 88dc669aafdac3d2f8c2a5fae91a1bf1ce69ca93
