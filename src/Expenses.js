@@ -15,9 +15,9 @@ const Expenses = () => {
   return (
     <div>
       <center>
-      <h2>This is a central page for redirection to various subsection.</h2>
+      <h2>This is the menu for various product.</h2>
       
-      <div>
+      {/* <div>
           <label>Total Allotted Amount:</label>
           <input
             type="text"
@@ -33,7 +33,7 @@ const Expenses = () => {
             value="0"
             onChange={handleRemainingAccountChange}
           />
-        </div>
+        </div> */}
         <h2><Link to="/company">Show Sections</Link></h2>
       </center>
     </div>
